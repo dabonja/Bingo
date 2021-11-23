@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders RoundStart component without crashing 1`] = `
+<div
+  className="item-a"
+  data-testid="roundStart"
+  style={
+    Object {
+      "color": "rgba(244, 102, 255, 1)",
+    }
+  }
+>
+  <h1
+    className="display-4"
+  >
+    Bingo
+  </h1>
+  <p
+    className="lead"
+  >
+    Round: 
+  </p>
+  <button
+    className="btn btn-danger btn-lg"
+    type="button"
+  >
+    Start
+  </button>
+  <div
+    className="outer-ball"
+    style={
+      Object {
+        "backgroundColor": undefined,
+        "boxShadow": "rgba(0, 0, 0, 0.56) 0px 22px 70px 4px",
+        "display": "block",
+        "height": "100px",
+        "position": "relative",
+        "top": "18%",
+        "width": "100px",
+      }
+    }
+  >
+    <div
+      className="inner-ball"
+      style={
+        Object {
+          "color": "black",
+          "fontSize": "36px",
+          "height": "62px",
+          "width": "62px",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`renders components correctly renders RoundStart component without crashing 1`] = `
+<div
+  className="item-a"
+  data-testid="roundStart"
+  style={
+    Object {
+      "color": "rgba(244, 102, 255, 1)",
+    }
+  }
+>
+  <h1
+    className="display-4"
+  >
+    Bingo
+  </h1>
+  <p
+    className="lead"
+  >
+    Round: 
+  </p>
+  <button
+    className="btn btn-danger btn-lg"
+    type="button"
+  >
+    Start
+  </button>
+  <div
+    className="outer-ball"
+    style={
+      Object {
+        "backgroundColor": undefined,
+        "boxShadow": "rgba(0, 0, 0, 0.56) 0px 22px 70px 4px",
+        "display": "block",
+        "height": "100px",
+        "position": "relative",
+        "top": "18%",
+        "width": "100px",
+      }
+    }
+  >
+    <div
+      className="inner-ball"
+      style={
+        Object {
+          "color": "black",
+          "fontSize": "36px",
+          "height": "62px",
+          "width": "62px",
+        }
+      }
+    />
+  </div>
+</div>
+`;
